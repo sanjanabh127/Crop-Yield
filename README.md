@@ -58,4 +58,5 @@ The **model.pkl** file stores the trained Random Forest model in binary format.
 - The comparison shows the **best regression model** for yield prediction.  
 
 ---
+![image_alt](https://github.com/sanjanabh127/Crop-Yield/blob/1b002f9fcbeba45e0cd34f1a84a087ac806fb208/Image/Screenshot%202025-12-23%20182033.png)
 
